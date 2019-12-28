@@ -28,7 +28,7 @@ SECRET_KEY = '9_2400e-83-8ri+mx$vi%4hxhi1fkq*6j%v1#7d=-6d@!i2^#p'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['chintha.pythonanywhere.com']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
